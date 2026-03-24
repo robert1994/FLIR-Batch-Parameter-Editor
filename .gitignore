@@ -4,3 +4,9 @@ __pycache__/
 *.bak
 *.jpg
 *.jpeg
+build/
+dist/
+*.spec
+FLIR Batch Parameter Editor.exe
+release/*
+!release/README.txt
